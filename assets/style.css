@@ -1,0 +1,8 @@
+body {
+    background-color: skyblue;
+    color: darkblue;
+}
+
+.img-rounded {
+    justify-items: center;
+}
